@@ -27,10 +27,11 @@ body {
 
 .quote-text {
 	font-size: 1.75rem;
+	min-height: 150px;
 }
 
 .quote-button:hover {
-	color: rgb(167, 161, 161) 
+	color: rgb(167, 161, 161);
 }
 
 .long-quote {
